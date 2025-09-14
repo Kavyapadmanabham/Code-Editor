@@ -1,3 +1,29 @@
+# 🧠 AI-Powered Code Editor
+
+An intelligent, collaborative code editor built with **React.js**, **Monaco Editor**, **Node.js/Express**, and **Firebase**.  
+It supports multiple programming languages, real-time collaboration, and AI-powered code suggestions.
+
+---
+
+## ✨ Features
+
+- 🔤 **Multi-language support** (C, C++, Java, Python, JavaScript, etc.)
+- 🎨 **Customizable editor UI** (themes, font size, layout)
+- 🤖 **AI-powered suggestions** (bug fixes, code completions)
+- 📂 **Recursive file navigation** with drag-and-drop
+- 💾 **Cloud storage** with Firebase & Firestore
+- 🔍 **IntelliSense-like auto-suggestions** using Monaco
+
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/<Kavyapadmanabham>/code-editor.git
+cd code-editor
+
 # Node.js Express Gemini (Google Generative AI) Backend
 
 ## Setup
