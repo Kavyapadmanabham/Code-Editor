@@ -33,14 +33,14 @@ cd code-editor
    npm install
    ```
 
-2. Create a `.env` file in the project root with your Gemini API key:
+### 2. Create a `.env` file in the project root with your Gemini API key:
    ```env
    GEMINI_API_KEY=your-gemini-api-key-here
    ```
 
-3. Start the server:
+### 3. Start the server:
    ```bash
-   node index.js
+   npm run dev
    ```
 
 ## API Usage
